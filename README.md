@@ -1,6 +1,6 @@
 # Hey, folks! 👋
 
-I'm Salvatore Vigano, a coding enthusiast and lifelong learner. Currently pursuing my dreams of becoming a software wizard at the University of Study of Palermo, Italy! 🇮🇹
+I'm Salvatore Vigano, a coding enthusiast and lifelong learner. Currently pursuing my dreams of becoming a software developer, specializing in cybersercurity, at the University of Study of Palermo, Italy! 🇮🇹
 
 I am passionate about creating amazing code and constantly challenging myself to learn new things. My current focus is on Informatics Engineering and I'm loving every second of it!
 
