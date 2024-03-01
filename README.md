@@ -12,7 +12,6 @@ I am passionate about creating amazing code and constantly challenging myself to
 **Let's Connect!**
 - 🐦 Tweet at me: [Katagaki9331](https://twitter.com/Katagaki9331)
 - 👔 LinkedIn: [salvatorevigano](https://www.linkedin.com/in/salvatorevigano/)
-- 💼 GitHub: [salvatorevigano0](https://github.com/salvatorevigano0)
 
 Remember, coding is like cooking - sometimes you follow a recipe, and sometimes you just throw in a little bit of everything and hope for the best. Here's to always having fun while coding! 🎉
 
