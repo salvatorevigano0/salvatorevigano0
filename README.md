@@ -6,7 +6,7 @@ I am passionate about creating amazing code and constantly challenging myself to
 
 **Fun Facts About Me:**
 - 🧙‍♂️ Hobbies: Coding (obviously!), cooking up a storm in the kitchen, and exploring the great outdoors.
-- 🤖 Skills: Proficient in Python, Java, JavaScript, C, C++, and R. You could say I'm a multi-linguist... in programming languages.
+- 🤖 Skills: Proficient in Python, Java, and C. You could say I'm a multi-linguist... in programming languages.
 - 🚀 Goals: I dream of building software that makes a positive impact on people's lives, like an app that automatically finds lost socks. Revolutionary, I know.
 
 **Let's Connect!**
